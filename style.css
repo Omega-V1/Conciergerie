@@ -1261,7 +1261,8 @@ nav {
     font-size: 18px;
 }
 
-.ad-box {
+.ad-box,
+.add-box {
     display: flex;
     flex-direction: row;
     align-items: center;
