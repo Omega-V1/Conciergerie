@@ -167,6 +167,7 @@ nav {
 
 .title-home {
     text-align: center;
+    margin-bottom: 1rem;
 }
 
 .title-home h1 {
@@ -185,7 +186,7 @@ nav {
 }
 
 .formulaire {
-    padding: 3rem;
+    padding: 1rem;
 }
 
 .section1,
